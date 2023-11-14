@@ -1,0 +1,26 @@
+Linux xe centralized distrubuted system
+GIT : glocal information tracking
+
+
+versioning :
+-   local
+-   centralized : using internet
+    -   live changes , not good for colaboratoion
+-   distrubuted
+
+
+GIT:
+-   tracked :
+    -   modified 
+    -   staged
+    -   unmodified
+
+-   untracked
+
+agile
+
+devops
+
+tests types
+-   functional testing new
+abder
